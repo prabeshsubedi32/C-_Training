@@ -12,6 +12,7 @@ namespace Program
         {
             Console.WriteLine("This is the project");
             Console.ReadKey();
+            name
         }
     }
 }
